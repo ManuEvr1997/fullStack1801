@@ -1,0 +1,23 @@
+commit e85845ec0613014ac3a0c2e9e4739d3ad4fc566c
+Author: Emanuel Vega <eveg7719@gmail.com>
+Date:   Wed Mar 26 15:16:36 2025 -0500
+
+    cambio 4
+
+commit ad4c313c60ab4271cb4b5222e4e055ce390af318
+Author: Emanuel Vega <eveg7719@gmail.com>
+Date:   Fri Mar 21 19:29:17 2025 -0500
+
+    cambio3 arch1,arch2,arch3
+
+commit f2b943331fe42a890bd177262ad4c7d2b83a16ba
+Author: Emanuel Vega <eveg7719@gmail.com>
+Date:   Fri Mar 14 19:46:40 2025 -0500
+
+    cambio 2 archivo 1,2 y 3
+
+commit 1413e8920f831e0d6eace6b9689f3bfba942bf9c
+Author: Emanuel Vega <eveg7719@gmail.com>
+Date:   Fri Mar 14 19:30:13 2025 -0500
+
+    primera versión 1 a repo local
